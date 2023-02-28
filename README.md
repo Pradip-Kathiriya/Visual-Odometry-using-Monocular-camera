@@ -6,7 +6,7 @@ truth pose. The ground truth information is leveraged to assess the efficacy of 
 
 ## Pipeline
 
-![mono_vio](https://user-images.githubusercontent.com/90370308/221732663-fd8531b4-7c6f-4e52-b06e-f88ac64ab7ee.png)
+![mono_vio](https://user-images.githubusercontent.com/90370308/221735805-6971e5c7-9878-42cd-80b5-c7f28d0393be.png)
 
 
 ## Result
