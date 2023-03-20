@@ -44,7 +44,14 @@ truth pose. The ground truth information is leveraged to assess the efficacy of 
 
 ![path](https://user-images.githubusercontent.com/90370308/221735641-f8d10f8c-ec0e-45dd-80af-1f93c33b1bc6.png)
 
+## Requirement
+Python 2.0 or above
 
+## License
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Copyright (c) Feb 2023 Pradip Kathiriya
 
 
 
